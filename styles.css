@@ -1,0 +1,45 @@
+
+body{
+  padding: 25px;
+}
+.title {
+	color: white;
+	text-align: center;
+	background-color: #5C6AC4;
+	padding: 1px;
+	border-radius: 15px;
+}
+
+.instraction {
+text-align: center;
+background-color : pink;
+margin: auto;
+width: 90%;
+border-radius: 10px;
+
+
+
+}
+
+
+h1 { 
+text-align: center;
+}
+
+
+.container {
+text-align : center;
+
+
+}
+
+
+.container li {
+list-style-type: none;
+
+}
+
+.button{
+float: right;
+}
+
